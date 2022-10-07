@@ -1,0 +1,11 @@
+.card {
+    background-color: theme('colors.white-neutral');
+    border-radius: theme('borderRadius.lg');
+    padding: theme('spacing.6');
+    box-shadow: theme('boxShadow.md');
+    margin-bottom: 10px;
+}
+
+.txtColor {
+    color: rgb(113 113 122);
+}
